@@ -1,6 +1,4 @@
-﻿//programa 10.- covertir un numero decimal a binar
-//objetivo convertir 
-
+//Decimal a binario: convertir un  numero entero no negativo a su representacion binaria usando dos metodos que se llamen mutuamente.
 using System;
 using System.ComponentModel.Design;
 class Program
