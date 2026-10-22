@@ -1,4 +1,4 @@
-﻿
+//﻿resultado de llamarse a si mismo usando el numero sin ese digito.
 using System;
 
 class Program
